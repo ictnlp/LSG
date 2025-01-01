@@ -82,6 +82,7 @@ simuleval --agent contrastive_policy.py \
 We prepare the inference scripts in the [eval_contrastive_policy_asr.sh](https://github.com/ictnlp/LSG/blob/main/qwen_audio_asr/eval_contrastive_policy_asr.sh).
 
 ```
+
 export CUDA_VISIBLE_DEVICES=0,1
 
 DELTA=delta
@@ -90,8 +91,8 @@ LOW_BOUND=low_bound
 TOP_BOUND=top_bound
 SEG_SIZE=640
 MODEL=qwen_audio_dir
-SOURCE=translation_file/source_audio.txt
-TARGET=translation_file/target.txt
+SOURCE=source_audio.txt
+TARGET=transcription.txt
 
 
 simuleval --agent contrastive_policy_asr.py \
