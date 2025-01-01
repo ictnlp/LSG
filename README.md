@@ -4,6 +4,14 @@
 
 Code for AAAI 2025 paper "Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation"
 
+<div align="center">
+  <img src="./model.png" alt="architecture" width="600" height="320">
+</div>
+
+<div align="center">
+  The architecture of our LSG.
+</div>
+
 💡Highlight:
 1. LSG is a **L**LM-driven **S**imultaneous **G**eneration framework, which allows the off-the-shelf LLMs to decide the generation timing and produce output concurrently.
 2. Experiments on simultaneous text-to-text translation and speech-to-text translation demonstrates LSG achieves SOTA performance on standard benchmarks.
