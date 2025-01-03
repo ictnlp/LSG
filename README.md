@@ -2,7 +2,7 @@
 
 **Authors**: [Shoutao Guo](https://scholar.google.com/citations?user=XwHtPyAAAAAJ&hl=zh-CN), [Shaolei Zhang](https://scholar.google.com/citations?user=gWwAWo4AAAAJ&hl=zh-CN), [Zhengrui Ma](https://scholar.google.com/citations?user=dUgq6tEAAAAJ&hl=zh-CN), [Yang Feng](https://yangfengyf.github.io/)*
 
-Code for AAAI 2025 paper "Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation"
+Code for AAAI 2025 paper "(Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation)[https://arxiv.org/abs/2501.00868]"
 
 <div align="center">
   <img src="./model.png" alt="architecture" width="600" height="320">
